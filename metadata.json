@@ -1,0 +1,6 @@
+{
+  "name": "Dona Héstia | Eletrodomésticos para o seu lar",
+  "description": "Encontre eletrodomésticos e soluções para deixar seu lar mais confortável, prático e moderno. Dona Héstia, o coração do seu lar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
